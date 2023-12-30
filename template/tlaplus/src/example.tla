@@ -1,7 +1,7 @@
----- MODULE squares ----
+---- MODULE example ----
 EXTENDS TLC, Integers
 
-(*--algorithm squares
+(*--algorithm example
 
 begin
     skip;
